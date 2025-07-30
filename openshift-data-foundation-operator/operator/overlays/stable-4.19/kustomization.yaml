@@ -14,3 +14,4 @@ patches:
       kind: Subscription
       name: odf-operator
       namespace: openshift-storage
+      version: v1alpha1
